@@ -188,6 +188,7 @@ complete list) and `adb shell settings put global <scale> 1.0`.
 | `README.md` | This guide |
 | `DEBLOAT-LOG.md` | Full before/after log with per-package undo commands |
 | `disabled-packages.txt` | Machine-readable list of every disabled package |
+| `measurements/` | Raw "before" measurements (`dumpsys meminfo`, package lists, animation scales, storage) |
 | `undo.sh` | One-command full revert |
 
 ## Credits & sources
