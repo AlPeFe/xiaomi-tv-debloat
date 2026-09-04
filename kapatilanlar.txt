@@ -1,0 +1,43 @@
+# Paquetes deshabilitados en MiTV-MSSP3 (192.168.31.201)
+# Método: pm disable-user --user 0  ->  reversible con: pm enable <package>
+# Fecha: 2026-09-04
+#
+# LOTE 1 (10)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.play.games
+com.google.android.backdrop
+com.google.android.videos
+com.google.android.music
+com.google.android.marvin.talkback
+com.amazon.amazonvideo.livingroom
+com.android.dreams.basic
+com.google.android.feedback
+
+# LOTE 2 (10)
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.updateservice
+com.xiaomi.floatingframe
+com.mitv.gallery
+com.mitv.tvlock
+com.xiaomi.mitv.mediaexplorer
+com.xm.webcontent
+com.xiaomo.tv.milegal
+com.mitv.tvhome.mitvplus
+com.mediatek.androidbox
+
+# LOTE 3 (9)
+com.mediatek.tv.factory
+com.mediatek.wwtv.tvcenter
+com.android.printspooler
+com.android.sharedstoragebackup
+com.android.backupconfirm
+com.google.android.tv.bugreportsender
+com.google.android.leanbacklauncher.recommendations
+com.google.android.tvrecommendations
+com.xiaomi.mimusic2
+
+# LOTE 4 - LAUNCHERS (2) - tras instalar FLauncher y fijarlo como home
+com.google.android.tvlauncher
+com.mitv.tvhome.atv
+
