@@ -176,7 +176,7 @@ adb shell pm trim-caches 8G
 bash undo.sh 192.168.31.201
 ```
 
-Or manually: `adb shell pm enable <package>` per package (see `kapatilanlar.txt` for the
+Or manually: `adb shell pm enable <package>` per package (see `disabled-packages.txt` for the
 complete list) and `adb shell settings put global <scale> 1.0`.
 
 ---
@@ -187,7 +187,7 @@ complete list) and `adb shell settings put global <scale> 1.0`.
 |---|---|
 | `README.md` | This guide |
 | `DEBLOAT-LOG.md` | Full before/after log with per-package undo commands |
-| `kapatilanlar.txt` | Machine-readable list of every disabled package |
+| `disabled-packages.txt` | Machine-readable list of every disabled package |
 | `undo.sh` | One-command full revert |
 
 ## Credits & sources

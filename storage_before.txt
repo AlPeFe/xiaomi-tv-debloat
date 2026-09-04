@@ -1,0 +1,4 @@
+MemTotal:        1875028 kB
+MemFree:          196000 kB
+MemAvailable:     331104 kB
+/dev/block/mmcblk0p37 4.1G  3.7G  280M  94% /data
